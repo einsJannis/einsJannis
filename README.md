@@ -10,6 +10,7 @@ I'm jobless and in highschool till summer 2022, but if you want to hire me: I'd 
 
 ## Latest and greatest projects
 
+ - [usel-os](https://github.com/einsJannis/usel-os): My own useless rusty operating system.
  - [computer](https://github.com/einsJannis/computer): My own computer design, emulator and everything else.
  - [llvm_ir_generator](https://github.com/einsJannis/llvm_ir_generator): A LLVM IR generator which may or may not be used in my next compiler.
  - [Lang](https://github.com/einsJannis/Lang): My own programming language I developed for my highschool thesis.
