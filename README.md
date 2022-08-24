@@ -15,7 +15,7 @@ I love Kotlin and Rust but I have use a bunch of other languages before like the
  
 I am also daily driving Arch Linux and am thus quite agile with things related to Linux.
 
-I have am very interested in how code can let a computer do stuff and thus I love to explore how libraries, protocols, compilers, technolegies and the underlying hardware works.
+I have am very interested in how code can let a computer do stuff and thus I love to explore how libraries, protocols, compilers, technologies and the underlying hardware works.
 
 ## Education
 
