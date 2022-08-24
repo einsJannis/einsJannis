@@ -1,14 +1,33 @@
 # Hi there, I'm [einsJannis](https://einsjannis.dev)
 
-I'm a programmer from Switzerland.
+I'm a self thaught programmer from Switzerland.
 
-My thing is to start way too ambitious projects which are completely useless because they either already exist in some form or I never finish them.
+My thing is to start way too ambitious projects which are completely useless because they either already exist in some form or get abandoned before I finish them.
+
+I love Kotlin and Rust but I have use a bunch of other languages before like the following:
+
+ - Java
+ - Java/TypeScript
+ - Python
+ - Shell-Script (POSIX Shell)
+ - C
+ - C++
+ 
+I am also daily driving Arch Linux and am thus quite agile with things related to Linux.
+
+I have am very interested in how code can let a computer do stuff and thus I love to explore how libraries, protocols, compilers, techonlegies and the underlying hardware works.
+
+## Education
+
+ - Gymnasiale Matura with focus on physics and applied mathematics, Kantonsschule Alpenquai, Lucerne, Switzerland June 2022
 
 ## Employment
 
-I'm jobless and in highschool till summer 2022, but if you want to hire me: I'd love to get a job.
+I'm currently looking for a job.
 
 ## Latest and greatest projects
+
+NOTE: I took a break during my final Matura exam and for some time afterwards. After my break I have now started work on a small comertial project, which I can't publish on Github, which lead to my lack of activity on here.
 
  - [usel-os](https://github.com/einsJannis/usel-os): My own useless rusty operating system.
  - [computer](https://github.com/einsJannis/computer): My own computer design, emulator and everything else.
