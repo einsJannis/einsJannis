@@ -27,7 +27,7 @@ I'm currently looking for a job.
 
 ## Latest and greatest projects
 
-NOTE: I took a break during my final Matura exam and for some time afterwards. After my break I have now started work on a small comertial project, which I can't publish on Github, which lead to my lack of activity on here.
+NOTE: I took a break during my final Matura exams and for some time afterwards. After my break I started to work on a small comertial project, which I can't publish on Github, which lead to my lack of activity on here.
 
  - [usel-os](https://github.com/einsJannis/usel-os): My own useless rusty operating system.
  - [computer](https://github.com/einsJannis/computer): My own computer design, emulator and everything else.
